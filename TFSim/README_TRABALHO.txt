@@ -1,5 +1,4 @@
-Grupo: Tomasulo Boys.
-Projeto 1: Adicionar suporte a novas instruções (foco em instruções de ponto flutuante).
+Grupo: Tomasulo Boys. Projeto 1: Adicionar suporte a novas instruções (foco em instruções de ponto flutuante).
 Nome dos integrantes: Arthur Leal Reis Queiroz, Ian Martinez Zimmermann e Thiago Tanaka.
 Professora: Liana Dessandra Duenha.
 Foram implementadas 5 novas instruções com foco em ponto flutuante, sendo elas:
